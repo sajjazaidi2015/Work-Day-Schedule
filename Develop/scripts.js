@@ -61,14 +61,3 @@ for (let i = 0; i <= hours; i++) {
     localStorage.setItem("schedule", JSON.stringify(scheduleStorage));
   });
 }
-
-// [
-//     { value: '' },
-//     { value: '' },
-//     { value: '' },
-//     { value: '' },
-//     { value: '' },
-//     { value: '' },
-//     { value: '' },
-//     { value: '' },
-// ]
