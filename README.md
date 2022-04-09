@@ -2,7 +2,7 @@
 
 # Live URL 
 
- 
+ https://sajjazaidi2015.github.io/Work-Day-Schedule/
 
 # Description
 
@@ -22,6 +22,6 @@ Near the top of the calendar, the application should display the current day. Ad
 
 I use the Moment.js library to work with date and time. 
 
-## Mobile View
+## Screenshot
 
 ![Work Day Schedule](./Assets/Web%20capture_9-4-2022_151949_127.0.0.1.jpeg)
